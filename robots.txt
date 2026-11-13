@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /progress/
+
+Sitemap: https://hoterwer.github.io/sitemap.xml
